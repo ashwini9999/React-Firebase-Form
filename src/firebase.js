@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 var firebaseApp = firebase.initializeApp({
-  // Your firebase credentials
+  // firebase credentials
   
 });
 
